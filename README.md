@@ -2,7 +2,7 @@
 
 ## A collection of cybersecurity projects
 
-##Project The First - Phishing Email
+##Project The First - Recognizing a Phishing Email the Non-Technical Way
 
 ###Take a look at the example email which purports to be from Microsoft. Before acting on an email take a moment to determine its authenticity. 
 
@@ -12,8 +12,8 @@
 
 This email is from security-alerts@micr0sft365.io. Malicious actors sometimes use web addresses that resemble those of legitimate companies in order to deceive victims. In this case, they have replaced the first letter o in microsoft with a zero and omitted the second letter o. 
 
-Note also that the domain for this email address is .io. This refers to the British Indian Ocean Territory. This domain is used for many software development efforts. A great many free online games use this address, as seen on sites like crazygames.com. When I type microsoft.io into my browser I am redirected to microsoft.com. However, this may be an artifact of geography. Perhaps if I use a VPN to change my location to Diego Garcia I will find it easier to access microsoft.io sites. Microsoft actually does own and use the microsoft.io domain.
-
+Note also that the domain for this email address is .io. This refers to the British Indian Ocean Territory. This domain is used for many software development efforts. A great many free online games use this address, as seen on sites like crazygames.com. When I type microsoft.io into my browser I am redirected to microsoft.com. However, this may be an artifact of geography. Microsoft actually does own and use the microsoft.io domain.
+Although, using a VPN to change my location to Perth, Australia resulted in my being redirected from microsoft.io to microsoft.com/en-au. 
 
 
 ####Step 2: Look for the application of pressure.
